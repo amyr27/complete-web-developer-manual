@@ -340,6 +340,7 @@ Selector {
 ### *Free Design resources:*
 *	https://interfacer.xyz/
 *	https://html5up.net/
+*	https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 ******************************************************************************************
 ## <a name ="10"></a>10.	__Tailwind CSS__
