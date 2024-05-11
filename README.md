@@ -282,7 +282,6 @@ Selector {
 
 ### **Tools:**
 *	Chrome Toggle Device
-*	https://codepen.io/
 
 ### **Exercises:**
 *	http://flexboxfroggy.com/
@@ -293,6 +292,8 @@ Selector {
 *	http://shouldiprefix.com/
 *	https://robots.thoughtbot.com/transitions-and-transforms
 *	https://darekkay.com/dev/flexbox-cheatsheet.html
+*	https://codepen.io/
+*	https://getbootstrap.com/
 
 > __If you take one thing from this, it is this__: Don't worry if you don't feel 100% confident in CSS. Keep going as we will keep building on top of this knowledge.
 
@@ -331,6 +332,7 @@ Selector {
 
 ### *Free Design resources:*
 *	https://interfacer.xyz/
+*	https://html5up.net/
 
 ******************************************************************************************
 ## <a name ="10"></a>10.	__Tailwind CSS__
