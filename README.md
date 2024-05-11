@@ -323,6 +323,13 @@ Selector {
 ******************************************************************************************
 ## <a name ="09"></a>9.	__CSS Grid + CSS Layout__
 
+## **Tags:**
+<!-- These are some CSS Grid Tags -->
+*	automatically adjusts the image according to its size `auto`
+*	The Area is filled with elements depending on how many "fr" there are  `1fr`, `2fr`, `nfr` or `repeat(n, nfr)`
+*	The Elements in the Area are increased many times over, depending on how high the number before the “fr” is  `1fr` or `2fr` or `nfr`
+
+  
 ### *Grid Cheat Sheets:*
 *	http://grid.malven.co/
 * https://css-tricks.com/snippets/css/complete-guide-grid/
