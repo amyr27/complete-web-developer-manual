@@ -720,6 +720,7 @@ type {filename} - displays the content of the file
 
 ### Git and version control practice/learning playground
 * https://learngitbranching.js.org/
+* https://education.github.com/git-cheat-sheet-education.pdf
 
 ### Git Commands:
 
