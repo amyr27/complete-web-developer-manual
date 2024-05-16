@@ -515,6 +515,7 @@ switch(expression){
 
 ### *Reference websites:*
 *	https://developer.mozilla.org/en-US/docs/web/Events
+*	https://developer.mozilla.org/en-US/docs/Web/API/Element/keypress_event
 *	https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 *	https://jquery.com/
 *	http://youmightnotneedjquery.com/
