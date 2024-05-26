@@ -520,6 +520,7 @@ switch(expression){
 *	https://jquery.com/
 *	http://youmightnotneedjquery.com/
 *	https://babeljs.io/
+*	http://youmightnotneedjquery.com/
 
 ### *DOM Selectors:*
 
